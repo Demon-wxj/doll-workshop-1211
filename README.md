@@ -11,3 +11,7 @@ Kaleidoscope Doll Workshop 的非官方 1.21.1 移植。在工作坊电脑中输
 - [构建方法与外部依赖](BUILDING.md)
 - [安装与使用](INSTALLATION.md)
 - [来源与许可详情](THIRD_PARTY_NOTICES.md)
+
+## 贡献者
+
+Demon-wxj · GPT（OpenAI）。分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
